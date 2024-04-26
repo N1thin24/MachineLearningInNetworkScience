@@ -25,6 +25,9 @@ Each model uses a combination of node features and structural information, with 
 The performance of each model is quantified using metrics like accuracy, confusion matrix, and classification report. Detailed results are as follows:
 
 SVM: Best accuracy of 98.22% with both node features and neighbor information.
+
 CatBoost: Highest accuracy of 95.68% with combined data.
+
 XGBoost: Similar performance to CatBoost with an accuracy of 95.59%.
+
 GCN: Reached an accuracy of 87%, showing effectiveness yet lower than classic models.
