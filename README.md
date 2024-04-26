@@ -12,6 +12,14 @@ The dataset consists of nodes representing official Facebook pages categorized i
 - **Edges Data:** CSV file containing mutual likes between pages.
 - **Node Labels and Information:** CSV file with node IDs and their respective categories.
 
+## Data Exploration Graphs
+
+![image](https://github.com/N1thin24/MachineLearningInNetworkScience/assets/107985125/83110859-17c3-4d03-8aca-34793be18b99)
+
+
+![image](https://github.com/N1thin24/MachineLearningInNetworkScience/assets/107985125/e77744a8-b7b0-4aa9-8f09-e786904b36e9)
+
+
 ## Models Implemented
 
 1. **Support Vector Machine (SVM)**
