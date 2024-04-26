@@ -31,3 +31,7 @@ CatBoost: Highest accuracy of 95.68% with combined data.
 XGBoost: Similar performance to CatBoost with an accuracy of 95.59%.
 
 GCN: Reached an accuracy of 87%, showing effectiveness yet lower than classic models.
+
+## Discussion
+
+Analysis reveals that models combining node attributes and neighbor information generally outperform those using only one type of data, highlighting the complex interplay between content-based and structural characteristics of the nodes. Also, we found that Classical ML methodlogy worked better for this problem.
